@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document xmlns="">
+      <Placemark>
+         <osm_id>319408586</osm_id>
+         <Point>
+            <coordinates>-0.1080108,51.5074089</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <osm_id>319408587</osm_id>
+         <Point>
+            <coordinates>-0.1081264,51.5074343</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Jam's Sandwich Bar cafe</name>
+         <osm_id>275452090</osm_id>
+         <Point>
+            <coordinates>-0.1076186,51.5075933</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <osm_id>304994980</osm_id>
+         <Point>
+            <coordinates>-0.1075735,51.5074645</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <osm_id>304994981</osm_id>
+         <Point>
+            <coordinates>-0.1075014,51.5074723</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <osm_id>304994979</osm_id>
+         <Point>
+            <coordinates>-0.1083348,51.507406</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
